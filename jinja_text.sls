@@ -1,3 +1,4 @@
-name: sa5sft06-pbe
-port: 20601
-domain: vip.cbr.ru
+'name': 'sa5sft06-pbe'
+'ports':
+  - 20601
+#domain: vip.cbr.ru
