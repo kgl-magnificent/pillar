@@ -8,7 +8,7 @@
   'sa5sft06-pbe':
     'port': '20602'
     'ssl': False
-  'sa5sft06-pbe':
+  'sa5sft07-pbe':
     'port': '20603'
     'ssl': False
   'sa5sft09-pbe':
